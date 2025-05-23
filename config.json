@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "onyxbillu@gmail.com",
-    "password": "",
+    "email": "Lucida.Lunar@gmail.com",
+    "password": "PanPan_8027?",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -19,7 +19,7 @@
     ]
   },
   "adminBot": [
-    "100066082432652",
+    "100081074084324",
     "",
     "",
     ""
@@ -29,8 +29,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "S K Y 🕊️",
-  "prefix": "+",
+  "nickNameBot": "!",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
